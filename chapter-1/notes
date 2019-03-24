@@ -1,0 +1,18 @@
+computer science is a kind of an idealised engineering where a boundary
+between what can be imagined and can be done is vague
+
+how to deal with complexity?
+  black-box abstraction
+  building boxes out of different boxes
+
+imperative vs declarative knowledge
+
+Lisp
+  primitive objects
+  means of combination
+    procedure composition
+    construction of compound data
+  means of abstraction
+  capturing common patterns
+    hof
+    data as procedures
